@@ -4,8 +4,7 @@
     "target": "esnext",
     //要包含的类型声明文件名列表
     "types": [
-      "node",
-      "vite/client"
+      "node"
     ],
     //将 class 声明中的字段语义从 [[Set]] 变更到 [[Define]]
     "useDefineForClassFields": true,

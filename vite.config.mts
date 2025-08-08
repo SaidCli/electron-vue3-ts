@@ -48,9 +48,8 @@ export default ({ mode }: ConfigEnv): UserConfigExport => {
            * 2. 如果你不想自定义 chunk 分割策略，可以直接移除这段配置
            */
           manualChunks: {
-            vue: ['vue', 'vue-router', 'pinia'],
-            element: ['element-plus', '@element-plus/icons-vue'],
-            vxe: ['vxe-table', 'vxe-table-plugin-element', 'xe-utils']
+            vue: ['vue'],
+            element: ['element-plus']
           }
         }
       }
