@@ -43,7 +43,7 @@
     "@vitejs/plugin-vue-jsx": "^5.0.1",
     "commitizen": "^4.3.1",
     "cz-conventional-changelog": "^3.3.0",
-    "electron": "^37.2.6",
+    "electron": "^37.3.1",
     "electron-builder": "^26.0.12",
     "electron-icon-builder": "^2.0.1",
     "electron-log": "^5.4.2",
@@ -66,6 +66,5 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "packageManager": "pnpm@9.15.0+sha1.8bfdb6d72b4d5fdf87d21d27f2bfbe2b21dd2629"
+  }
 }
